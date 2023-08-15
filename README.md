@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/94038708?s=400&u=467fd1dcb897f74ce9c18d927122b70cb76a8291&v=4" align="center" style="width: 100%" />
-</div>  
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" style="width: 100%" />
+</div>   
   
 
 ### <div align="center">I'm Shubham, and I'm enthusiastic about implementing DevOps 🧑‍💻 practices to streamline software development and operations collaboration.🚀</div>  
