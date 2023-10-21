@@ -101,11 +101,11 @@
 
 <br/>  
 <!-- BLOGPOSTS:START -->
- - 🔥 [Developed a log management and monitoring solution of nginx using Loki, Promtail, and Grafana.](https://shubhammore.hashnode.dev/developed-a-log-management-and-monitoring-solution-of-nginx-using-loki-promtail-and-grafana)
- - 🌮 [Kubernetes Cluster Maintenance](https://shubhammore.hashnode.dev/kubernetes-cluster-maintenance)
+ - 🔥 [How Hotstar handle the 35M concurrent users - Devops Prespective.](https://shubhammore.hashnode.dev/how-hotstar-handle-the-35m-concurrent-users-devops-prespective)
+ - 🌮 [Developed a log management and monitoring solution of nginx using Loki, Promtail, and Grafana.](https://shubhammore.hashnode.dev/developed-a-log-management-and-monitoring-solution-of-nginx-using-loki-promtail-and-grafana)
+ - 💫 [Kubernetes Cluster Maintenance](https://shubhammore.hashnode.dev/kubernetes-cluster-maintenance)
  - 💫 [Kubernetes Storage and Kubernetes Security](https://shubhammore.hashnode.dev/kubernetes-storage-and-kubernetes-security)
- - 💫 [Kubernetes Services and Service Discovery](https://shubhammore.hashnode.dev/kubernetes-services-and-service-discovery)
- - 🔥 [Kubernetes Workloads &lpar;Deployment, Jobs, CronJobs, StatefulSets, DaemonSets&rpar;](https://shubhammore.hashnode.dev/kubernetes-workloads-deployment-jobs-cronjobs-statefulsets-daemonsets)<!-- BLOGPOSTS:END -->
+ - 🔥 [Kubernetes Services and Service Discovery](https://shubhammore.hashnode.dev/kubernetes-services-and-service-discovery)<!-- BLOGPOSTS:END -->
   
 
 <br/>  
