@@ -101,7 +101,7 @@
 
 <br/>  
 <!-- BLOGPOSTS:START -->
- - 🔥 [How Hotstar handle the 35M concurrent users - Devops Prespective.](https://shubhammore.hashnode.dev/how-hotstar-handle-the-35m-concurrent-users-devops-prespective)
+ - 🔥 [How Hotstar handle the 35M concurrent users - Devops Perspective.](https://shubhammore.hashnode.dev/how-hotstar-handle-the-35m-concurrent-users-devops-perspective)
  - 🌮 [Developed a log management and monitoring solution of nginx using Loki, Promtail, and Grafana.](https://shubhammore.hashnode.dev/developed-a-log-management-and-monitoring-solution-of-nginx-using-loki-promtail-and-grafana)
  - 💫 [Kubernetes Cluster Maintenance](https://shubhammore.hashnode.dev/kubernetes-cluster-maintenance)
  - 💫 [Kubernetes Storage and Kubernetes Security](https://shubhammore.hashnode.dev/kubernetes-storage-and-kubernetes-security)
