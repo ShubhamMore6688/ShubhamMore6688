@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on DevOps Projects<br>🌱 I’m currently learning Javascript.<br>❓ Ask me about anything related to devops and cloud related technologies.<br>📫 How to reach me shubhamdmore03@gmail.com<br>I regularly write articles on **[hashnode](https://shubhammore.hashnode.dev/)**<br><br>
+🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on DevOps Projects<br>🌱 I’m currently learning Javascript.<br>❓ Ask me about anything related to devops and cloud related technologies.<br>📫 How to reach me shubhamdmore03@gmail.com<br>
+
+<br><br>
 
 
 ## 🌐 Socials:
